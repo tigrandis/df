@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="00e609f4-a660-4e08-8291-e9e8642dee86">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="17673a67-4360-4a30-82d7-66a072a80be3"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="131e933d-0a79-45d6-a330-35acc5485fde"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="0452343f-9951-481f-a35f-c528773b7f1e"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="a558403d-c97f-43f2-962d-98eecb56d3c4"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="e0a0691d-4ab1-4514-838b-63c3bd081753"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="312547f7-9c13-4e21-937b-7f0794b9bd94"/>
+  <configurationExtensionCompatibilityMode>8.3.16</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <requiredMobileApplicationPermissions>
+    <permission>AllowOSBackup</permission>
+    <use>true</use>
+  </requiredMobileApplicationPermissions>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.16</compatibilityMode>
+  <languages uuid="966fdf3e-daa9-4bd0-8e71-c64fca888ca1">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <roles>Role.ПолныеПрава</roles>
+  <commonModules>CommonModule.РаботаЛенивца</commonModules>
+  <commonModules>CommonModule.РаботаСНосками</commonModules>
+  <catalogs>Catalog.Товары</catalogs>
+</mdclass:Configuration>
